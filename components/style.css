@@ -77,10 +77,19 @@ body {
   background: #EEEEEE;
 }
 
+.slider_description_title{
+  padding: 30px;
+}
+
+.slider_description{
+  padding: 0 50px 0 30px;
+  font-size: 1rem;
+}
+
 .swiper-button-prev {
   z-index: 5;
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: calc(25% + 15px);
   border-radius: 50%;
   width: 60px;
@@ -91,7 +100,7 @@ body {
 .swiper-button-next {
   z-index: 5;
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: calc(50% - 57px);
   border-radius: 50%;
   width: 60px;
@@ -101,8 +110,8 @@ body {
 
 .autoplay-progress {
   position: absolute;
-  z-index: 5;
-  top: calc(50% - 24px);
+  z-index: 4;
+  top: calc(80% - 24px);
   left: calc(50% - 58px);
   width: 64px;
   height: 64px;
