@@ -1,6 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Slider
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<img src="https://github.com/heracles0127/slider-nuxt/blob/master/nuxt-slider.gif" height="100%" width="100%">
+
+## Reference
+
+[Swiper](https://swiperjs.com/demos#slides-per-view)
+
+[Mockup](https://www.gladia.io/product)
 
 ## Setup
 
